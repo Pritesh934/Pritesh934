@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Pritesh Das 👋
 
 <!--
 **Pritesh934/Pritesh934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,49 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👐 About Me
+I am a Data Science Master's student at the University of Texas at Arlington with a background in Computer Engineering. I operate at the intersection of data analytics and business strategy, using SQL, Excel, Python, and Tableau to translate complex data into actionable insights. With a history in market research and customer success, I focus on driving business growth through data-informed decision-making. I am currently seeking summer internship opportunities for 2026 and am open to full-time graduate roles in North America starting in June 2027. Additionally, as a United Arab Emirates Golden Visa holder, I offer flexibility and mobility to work in the Middle East.
+
+# 🎓 Education
+**M.S. in Data Science, The University of Texas at Arlington — May 2027**
+
+— Arlington, Texas, USA 
+
+— Coursework: Data Visualization, Machine Learning, Big Data Management, Data Science, Probability and Statistics 
+
+— GPA: 3.667/4.0
+
+**B. Tech in Computer Engineering, Delhi Technological University — June 2025**
+
+— New Delhi, India
+
+# 💼 Professional Experience
+
+**Business Development Intern, Orient IT Services** — **May 2024 – August 2024**
+
+At an IT solutions consultancy in Dubai, I collaborated cross-functionally to deliver tailored Cloud, AI, and cybersecurity solutions. I researched Azure cost optimization strategies using resources like Turbo360 and Veryx Cloudmon, contributing to a projected 12% reduction in client IT costs. Additionally, I leveraged Apollo.io and LinkedIn for targeted B2B outreach and developed technical narratives for AI tools like Cogniz, driving a 20% increase in lead generation targets and boosting client engagement by 15%.
+
+**Market Research Analyst Intern, Bahwan CyberTek** — **December 2022 – January 2023**
+
+Working with a global business transformation company, I conducted deep-dive research into the MENA utilities sector, focusing on smart grids, SCADA automation, and IoT platforms. I analyzed emerging technologies like TIBCO Connected Intelligence and Retina360 to identify operational efficiency gaps. Synthesizing these insights, I delivered 6 comprehensive market reports and documented data related to client requirements in structured spreadsheets, providing the sales and marketing teams with actionable intelligence to drive digital transformation projects.
+
+# 🛠️ Skills & Certifications
+
+**Certifications:** Microsoft Power BI Data Analyst (Currently Pursuing), Google Data Analytics Professional, Google Prompting Essentials, Google AI Essentials, Deloitte: Data Analytics Job Simulation, Siemens: Project Manager Job Simulation, NPTEL: The Joy of Computing Using Python (IIT Madras), NPTEL: Cloud Computing (IIT Kharagpur), IBM AI Developer
+
+**Technical Skills (Core)**: SQL, MS Excel, Tableau, Power BI, Google Sheets, Python, R
+
+**Analytics:** Data Cleaning, Data Visualization, Dashboarding, KPI Reporting
+
+**Other Tools:** JIRA, BigQuery, PowerPoint, Word
+
+**Management Skills:** Market Research, Business Development
+
+**Soft Skills**: Adaptability, Communication, Empathy, Problem-Solving, Teamwork, Time Management, Writing
+
+# 📫 Get in Touch
+
+- Feel free to connect with me on LinkedIn: 
+https://www.linkedin.com/in/pritesh-das
+- I am always excited to collaborate on data‑driven projects or discuss innovative uses of AI.
