@@ -43,7 +43,9 @@ Working with a global business transformation company, I conducted deep-dive res
 
 # 🛠️ Skills & Certifications
 
-**Certifications:** Microsoft Power BI Data Analyst (Currently Pursuing), Google Data Analytics Professional, Google Prompting Essentials, Google AI Essentials, Deloitte: Data Analytics Job Simulation, Siemens: Project Manager Job Simulation, NPTEL: The Joy of Computing Using Python (IIT Madras), NPTEL: Cloud Computing (IIT Kharagpur), IBM AI Developer
+**Certifications:** Microsoft Power BI Data Analyst, Google Data Analytics Professional, Google Prompting Essentials, Google AI Essentials, NPTEL: The Joy of Computing Using Python (IIT Madras), NPTEL: Cloud Computing (IIT Kharagpur), IBM AI Developer
+
+**Job Simulations:** Deloitte - Data Analytics, Tata - GenAI Powered Data Analytics, Tata - Data Visualization for Empowering Businesses, BCG - Introduction to Strategy Consulting, BCG - Data for Decision Makers, KPMG - Career Catalyst: Advisory, Siemens - Project Management, Electronic Arts - Product Management, Citi - Markets Quantitative Analysis
 
 **Technical Skills (Core)**: SQL, MS Excel, Tableau, Power BI, Google Sheets, Python, R
 
