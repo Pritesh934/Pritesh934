@@ -35,7 +35,7 @@ I am a Data Science Master's student at the University of Texas at Arlington wit
 
 **Healthcare Data Analytics Extern, TruBridge** — **May 2026 – August 2026**
 
-Selected for a healthcare analytics externship by TruBridge (via Extern), focused on population health data and applied statistical reporting, I conduct exploratory and statistical data analysis on publicly available healthcare datasets to uncover meaningful infection trends. I leverage advanced AI tools like ChatGPT and Claude to streamline data discovery, optimize research prompts, and support the engineering of interactive visualizations, dashboards, and public health reports. By analyzing complex variables such as case counts, demographics, and temporal patterns, I synthesize my findings into comprehensive technical reports and stakeholder presentations covering population insights, data limitations, and actionable public health implications.
+Selected for a healthcare analytics externship by TruBridge (via Extern), focused on population health data and applied statistical reporting, I conducted exploratory and statistical data analysis on publicly available healthcare datasets to uncover meaningful infection trends. I leveraged advanced AI tools like ChatGPT and Claude to streamline data discovery, optimize research prompts, and support the engineering of interactive visualizations, dashboards, and public health reports. By analyzing complex variables such as case counts, demographics, and temporal patterns, I synthesized my findings into comprehensive technical reports and stakeholder presentations covering population insights, data limitations, and actionable public health implications.
 
 **Associate, Compass Group** — **January 2026 – May 2026**
 
