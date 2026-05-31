@@ -33,6 +33,14 @@ I am a Data Science Master's student at the University of Texas at Arlington wit
 
 # 💼 Professional Experience
 
+**Healthcare Data Analytics Extern, TruBridge** — **May 2026 - August 2026**
+
+Selected for a healthcare analytics externship by TruBridge (via Extern), focused on population health data and applied statistical reporting, I conduct exploratory and statistical data analysis on publicly available healthcare datasets to uncover meaningful infection trends. I leverage advanced AI tools like ChatGPT and Claude to streamline data discovery, optimize research prompts, and support the engineering of interactive visualizations, dashboards, and public health reports. By analyzing complex variables such as case counts, demographics, and temporal patterns, I synthesize my findings into comprehensive technical reports and stakeholder presentations covering population insights, data limitations, and actionable public health implications.
+
+**Associate, Compass Group** — **January 2026 - May 2026**
+
+Working part time, as an on-campus associate for a Fortune Global 500 hospitality and contract foodservice company, I manage the financial and operational integrity of event protocols and facilitate professional stakeholder engagement. I coordinate the logistical lifecycle for high-priority campus functions, ensuring 100% operational readiness through rigorous compliance tracking and the systematic standardization of site-specific quality assurance protocols. Synthesizing these workflows with administrative precision, I oversaw daily operational data and cross-functional team coordination to consistently represent high-level corporate brand standards across all executed events.
+
 **Business Development Intern, Orient IT Services** — **May 2024 – August 2024**
 
 At an IT solutions consultancy in Dubai, I collaborated cross-functionally to deliver tailored Cloud, AI, and cybersecurity solutions. I researched Azure cost optimization strategies using resources like Turbo360 and Veryx Cloudmon, contributing to a projected 12% reduction in client IT costs. Additionally, I leveraged Apollo.io and LinkedIn for targeted B2B outreach and developed technical narratives for AI tools like Cogniz, driving a 20% increase in lead generation targets and boosting client engagement by 15%.
@@ -43,7 +51,7 @@ Working with a global business transformation company, I conducted deep-dive res
 
 # 🛠️ Skills & Certifications
 
-**Certifications:** Microsoft Power BI Data Analyst, Google Data Analytics Professional, Google Prompting Essentials, Google AI Essentials, NPTEL: The Joy of Computing Using Python (IIT Madras), NPTEL: Cloud Computing (IIT Kharagpur), IBM AI Developer
+**Certifications:** McKinsey Forward Learning Program (Currently Pursuing), Microsoft Power BI Data Analyst, Google Data Analytics Professional, Google Prompting Essentials, Google AI Essentials, NPTEL: The Joy of Computing Using Python (IIT Madras), NPTEL: Cloud Computing (IIT Kharagpur), IBM AI Developer
 
 **Job Simulations:** Deloitte - Data Analytics, Tata - GenAI Powered Data Analytics, Tata - Data Visualization for Empowering Businesses, BCG - Introduction to Strategy Consulting, BCG - Data for Decision Makers, KPMG - Career Catalyst: Advisory, Siemens - Project Management, Electronic Arts - Product Management, Citi - Markets Quantitative Analysis
 
