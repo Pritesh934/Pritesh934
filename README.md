@@ -39,7 +39,7 @@ Selected for a healthcare analytics externship by TruBridge (via Extern), focuse
 
 **Associate, Compass Group** — **January 2026 – May 2026**
 
-Working part time, as an on-campus associate for a Fortune Global 500 hospitality and contract foodservice company, I manage the financial and operational integrity of event protocols and facilitate professional stakeholder engagement. I coordinate the logistical lifecycle for high-priority campus functions, ensuring 100% operational readiness through rigorous compliance tracking and the systematic standardization of site-specific quality assurance protocols. Synthesizing these workflows with administrative precision, I oversaw daily operational data and cross-functional team coordination to consistently represent high-level corporate brand standards across all executed events.
+Working part-time as an on-campus associate for a Fortune Global 500 hospitality company, I managed the financial and operational integrity of event protocols and facilitated professional stakeholder engagement. I coordinated the logistical lifecycle for high-priority campus functions, ensuring 100% operational readiness through rigorous compliance tracking and the systematic standardization of site-specific quality assurance protocols. Synthesizing these workflows with administrative precision, I oversaw daily operational data and cross-functional team coordination to consistently represent high-level corporate brand standards across all executed events.
 
 **Business Development Intern, Orient IT Services** — **May 2024 – August 2024**
 
