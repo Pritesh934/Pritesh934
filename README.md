@@ -33,11 +33,11 @@ I am a Data Science Master's student at the University of Texas at Arlington wit
 
 # 💼 Professional Experience
 
-**Healthcare Data Analytics Extern, TruBridge** — **May 2026 - August 2026**
+**Healthcare Data Analytics Extern, TruBridge** — **May 2026 – August 2026**
 
 Selected for a healthcare analytics externship by TruBridge (via Extern), focused on population health data and applied statistical reporting, I conduct exploratory and statistical data analysis on publicly available healthcare datasets to uncover meaningful infection trends. I leverage advanced AI tools like ChatGPT and Claude to streamline data discovery, optimize research prompts, and support the engineering of interactive visualizations, dashboards, and public health reports. By analyzing complex variables such as case counts, demographics, and temporal patterns, I synthesize my findings into comprehensive technical reports and stakeholder presentations covering population insights, data limitations, and actionable public health implications.
 
-**Associate, Compass Group** — **January 2026 - May 2026**
+**Associate, Compass Group** — **January 2026 – May 2026**
 
 Working part time, as an on-campus associate for a Fortune Global 500 hospitality and contract foodservice company, I manage the financial and operational integrity of event protocols and facilitate professional stakeholder engagement. I coordinate the logistical lifecycle for high-priority campus functions, ensuring 100% operational readiness through rigorous compliance tracking and the systematic standardization of site-specific quality assurance protocols. Synthesizing these workflows with administrative precision, I oversaw daily operational data and cross-functional team coordination to consistently represent high-level corporate brand standards across all executed events.
 
