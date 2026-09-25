@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 👐 About Me
-I am a Data Science Master's student at the University of Texas at Arlington with a background in Computer Engineering. I operate at the intersection of data analytics and business strategy, using SQL, Excel, Python, and Tableau to translate complex data into actionable insights. With a history in market research and customer success, I focus on driving business growth through data-informed decision-making. I am currently seeking summer internship opportunities for 2026 and am open to full-time graduate roles in North America starting in June 2027. Additionally, as a United Arab Emirates Golden Visa holder, I offer flexibility and mobility to work in the Middle East.
+I am a Data Science Master's student at the University of Texas at Arlington with a background in Computer Engineering. I operate at the intersection of data analytics and business strategy, using SQL, Excel, Python, and Tableau to translate complex data into actionable insights. With a history in market research and customer success, I focus on driving business growth through data-informed decision-making. I am currently seeking full-time graduate roles in North America starting in May 2027. Additionally, as a United Arab Emirates Golden Visa holder, I offer flexibility and mobility to work in the Middle East.
 
 # 🎓 Education
 **M.S. in Data Science, The University of Texas at Arlington — May 2027**
